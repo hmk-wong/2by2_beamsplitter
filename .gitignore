@@ -1,0 +1,16 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+.env/
+.venv/
+*.log
+
+# Simulation and build outputs
+results/
+*.oas
+*.npz
+
+#VS Code and OS files
+.vscode/
+.DS_Store
+Thumbs.db
